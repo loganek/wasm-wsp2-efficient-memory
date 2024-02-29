@@ -1,0 +1,4 @@
+main.wasm
+main.wat
+imports*
+.vscode/
